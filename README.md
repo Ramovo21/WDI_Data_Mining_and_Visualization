@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Mining & Visualization — WDI (Kuznets Curve & Energy Transition)
 
 ## 1) Mô tả tổng quan
@@ -163,3 +164,4 @@ Data Mining and Visualization/
 	- Rà soát narrative cuối cùng để đồng bộ văn phong báo cáo.
 	- Chạy lại notebook theo thứ tự từ đầu để đảm bảo reproducibility trước khi nộp.
 	- Xuất bản báo cáo (HTML/PDF) nếu cần nộp bản tĩnh.
+
